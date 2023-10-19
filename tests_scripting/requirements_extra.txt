@@ -1,3 +1,0 @@
-# Add custom dependencies here that are only relevant for scripts.
-# Anything relevant to the Python package for this repo should be in poetry.
-# These dependencies are just for local scripting/testing.
